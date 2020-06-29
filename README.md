@@ -1,5 +1,4 @@
-# Mpolan16.github.io_Homework3
-The Password Generator
+# The Password Generator
 
 This application allows the user to create a randomly generated password by:
 
@@ -9,4 +8,4 @@ This application allows the user to create a randomly generated password by:
 3. Randomly selecting charaters from the user critera.
 4. Finally a randomly generated password will appear on the page.
 
-https://mpolan16.github.io/Mpolan16.github.io_Homework3/
+https://mpolan16.github.io/PasswordGenerator/.
