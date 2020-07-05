@@ -11,10 +11,6 @@ The this application is quick way to create a randomly generated password.
 
 * [Technology](#Technology)
 
-* [License](#license)
-
-* [Contributing](#contributing)
-
 * [Questions](#questions)
 
 
@@ -30,15 +26,6 @@ https://mpolan16.github.io/PasswordGenerator/.
 
 ## Technologies used
 Javascript, HTML, CSS, Bootstrap
-
-## License
- This project is licensed under ![badge](https://img.shields.io/badge/License-MIT-blue).
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 
 ## Questions
 
